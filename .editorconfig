@@ -1,0 +1,13 @@
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+tab_width = 4
+indent_style = space
+max_line_length = 200
+insert_final_newline = false
+trim_trailing_whitespace = true
+
+[*.md]
+insert_final_newline = false
+trim_trailing_whitespace = false
