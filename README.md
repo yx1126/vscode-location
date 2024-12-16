@@ -1,3 +1,5 @@
-# vscode-location README
+# File Location
 
-## Current file location
+### Example:
+
+![console](https://github.com/yx1126/vscode-location/blob/main/resources/example.gif)
