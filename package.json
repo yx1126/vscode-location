@@ -1,7 +1,7 @@
 {
     "name": "vscode-location",
     "displayName": "File Location",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "private": true,
     "publisher": "reallyx",
     "description": "Current file location",
