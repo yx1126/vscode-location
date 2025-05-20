@@ -1,3 +1,4 @@
 {
-    "title": "Navigate to the currently open file in the editor"
+    "title": "Navigate to the currently open file in the editor",
+    "fold.other": "Whether to fold the other folders"
 }
