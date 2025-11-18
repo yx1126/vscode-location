@@ -9,3 +9,4 @@ vsc-extension-quickstart.md
 **/*.ts
 **/.vscode-test.*
 tsdown.config.ts
+image/**
