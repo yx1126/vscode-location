@@ -8,4 +8,4 @@ vsc-extension-quickstart.md
 **/eslint.config.mjs
 **/*.ts
 **/.vscode-test.*
-rollup.config.js
+tsdown.config.ts

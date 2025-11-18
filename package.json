@@ -13,8 +13,8 @@
     "scripts": {
         "vscode:prepublish": "pnpm run build",
         "push": "vsce publish --no-dependencies",
-        "build": "tsup",
-        "watch:tsup": "tsup --watch",
+        "build": "tsdown",
+        "watch:tsdown": "tsdown --watch",
         "watch:tsc": "tsc --noEmit --watch --project tsconfig.json",
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
@@ -28,7 +28,7 @@
         "@vscode/test-cli": "^0.0.10",
         "@vscode/test-electron": "^2.4.1",
         "eslint": "^9.17.0",
-        "tsup": "^8.3.5",
+        "tsdown": "^0.16.5",
         "typescript": "^5.7.2"
     },
     "engines": {
